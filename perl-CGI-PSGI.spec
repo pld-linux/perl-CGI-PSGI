@@ -8,13 +8,13 @@
 Summary:	CGI::PSGI - Adapt CGI.pm to the PSGI protocol
 #Summary(pl.UTF-8):	
 Name:		perl-CGI-PSGI
-Version:	0.14
+Version:	0.15
 Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/CGI/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	31d2bd2cd3b4d0ae196e93e11e7fd98f
+# Source0-md5:	58a39711add2b48229710688c5f81cfd
 # generic URL, check or change before uncommenting
 #URL:		http://search.cpan.org/dist/CGI-PSGI/
 BuildRequires:	perl-devel >= 1:5.8.0
