@@ -4,7 +4,6 @@
 
 %define		pdir	CGI
 %define		pnam	PSGI
-%include	/usr/lib/rpm/macros.perl
 Summary:	CGI::PSGI - Adapt CGI.pm to the PSGI protocol
 Name:		perl-CGI-PSGI
 Version:	0.15
